@@ -1,0 +1,4 @@
+OPENAI_KEY = ""
+OPENWEATHER_APP_ID = ""
+OPENWEATHER_API_ID = ""
+api_key = ""
