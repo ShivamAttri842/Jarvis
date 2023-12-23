@@ -22,7 +22,6 @@ r = sr.Recognizer()
 
 Username = "Shivam"
 Botname = "Jarvis"
-Date_of_birth = "04 september 2005"
 
 engine = py.init('sapi5')
 voices = engine.getProperty('voices')
